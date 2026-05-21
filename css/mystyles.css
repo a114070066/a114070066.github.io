@@ -1,0 +1,50 @@
+.libbycenter{
+    text-align: center;
+    color: brown;
+    background-color: rgb(248, 159, 108);
+    border: 2px solid red;
+    padding: 30px;
+    border-radius: 30px 0px 70px 35px;
+}
+.libbysieh{
+    text-align: center;
+    color: rgb(200, 179, 249);
+    background-color: rgb(4, 73, 85);
+    border: 2px solid rgb(39, 31, 31);
+    padding: 20px 30px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100px;
+    overflow: auto;
+}
+.centercenter
+{
+    text-align: center;
+}
+.libbylink{
+    color: rgb(42, 95, 95);
+    padding: 0 10px ;
+    border-radius: 40px;
+    background-color: chocolate;
+}
+.libbylink:hover{
+    background-color: rgb(245, 171, 75);
+    color: brown;
+    padding: 0 10px ;
+}
+.libbybig{
+    font-size: 20px;
+    font-weight: 900;
+}
+.libbygo{
+    font-size: 20px;
+    text-align: center;
+}
+#about{
+    background-image: url(../assets/img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
